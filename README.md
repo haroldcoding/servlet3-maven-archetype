@@ -1,4 +1,4 @@
-##servlet3-maven-archetype
+## servlet3-maven-archetype
 
 Project provides Maven archetype for creating plain simple Servlet 3 based webapplication
 
@@ -13,3 +13,4 @@ Check out also my development blog: <http://maciejwalkowiak.pl/blog>
 ==================================================
 ## 2017/07/17 
 Project provides Maven archetype for creating plain simple Servlet 3.1 based webapplication now.
+Thanks for this blog <http://shmilyaw-hotmail-com.iteye.com/blog/2221134> too.
